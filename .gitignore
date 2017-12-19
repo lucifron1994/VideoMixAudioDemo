@@ -1,0 +1,14 @@
+# Xcode
+.DS_Store
+*/build/*
+xcuserdata
+profile
+*.moved-aside
+*.xccheckout
+*.xcworkspace
+!default.xcworkspace
+
+#CocoaPods
+Pods
+!Podfile
+!Podfile.lock
